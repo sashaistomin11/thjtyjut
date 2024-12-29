@@ -1,0 +1,32 @@
+nav a{
+    margin: 30px;
+    background-color: navy;
+    border: 1px solid navy;
+    border-radius: 25px;
+    color: rgb(255, 217, 166);
+    padding: 3px;
+    text-decoration: none;
+}
+
+nav {
+    background-color: rgb(255, 217, 166);
+    border: 5px solid navy;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+.cheburahka {
+    background-color: aqua;
+    border: 3px solid navy;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+h2 {
+    color: blue;
+}
+
+.Gennadiy {
+    border: 3px solid navy;
+    padding: 8px;
+}
